@@ -1,5 +1,8 @@
 # fallback
 
+## About this fork
+I'm maintaining this fork until [coredns/fallback#14](https://github.com/coredns/fallback/pull/14) is merged.
+
 ## Name
 
 *fallback* - a plugin that sends queries to an alternate set of upstreams if the plugin
